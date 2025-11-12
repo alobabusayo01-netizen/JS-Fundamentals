@@ -1,3 +1,4 @@
 
-console.log(myVar "javascript is amazing")
-  // javascript is amazing
+let variable 'myVar'
+console.log(myVar)
+ value " javascript is amazing"
