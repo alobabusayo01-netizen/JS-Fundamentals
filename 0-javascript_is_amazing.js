@@ -1,3 +1,3 @@
 
-let myVar; myVar = javascript is amazing
-console.log(myVar)
+const myVar = ["javascript is amazing"];
+console.log(myVar); // [javascript is amazing] ;
