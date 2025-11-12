@@ -1,4 +1,3 @@
 
-let variable 'myVar'
+let myVar; myVar = javascript is amazing
 console.log(myVar)
- value " javascript is amazing"
