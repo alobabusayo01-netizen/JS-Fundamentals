@@ -1,3 +1,4 @@
 
 const myVar = \"javascript is amazing\";
-console.log(myVar);  
+  let X = myVar';
+console.log(X);  
