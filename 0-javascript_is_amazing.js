@@ -1,3 +1,3 @@
 
 const 'myVar' = 'amazing';
-console.log("javascript is "+ myVar);
+console.log("javascript is "+ 'myVar');
