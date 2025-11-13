@@ -1,5 +1,13 @@
-If no arguments are passed to the script,
-   print “No argument”
-If only one argument is passed to the script,
-  print “Argument found”
-Otherwise, print “Arguments found”
+
+const 'myVar' = 'no argument'
+if ('no argument is passed to script') {
+    console.log('myVar')
+} else {
+    const myVar = 'argument found'
+   console.log('myVar')
+}
+
+
+
+
+
