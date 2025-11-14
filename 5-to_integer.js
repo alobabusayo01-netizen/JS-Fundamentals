@@ -1,4 +1,16 @@
-If the argument can’t be converted to an integer, 
-  print “Not a number”
-If the argument can be converted to an integer, 
-  print “My number is 89”
+
+let num = 90;
+       switch (num){
+          case 0:
+     console.log("number is not an integer.");
+          break;
+            case 1:
+          console.log("number is an integer.89");
+           break;
+         case 2:
+           console.log("number is an integer.89")
+           break;
+         default:
+           console.log("school is not a number.");
+       };
+    
