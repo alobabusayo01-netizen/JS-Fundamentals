@@ -1,10 +1,10 @@
 
-const 'myVar' = 'no argument'
-if ('no argument is passed to script') {
-    console.log('myVar')
+const myVar1 = X= " argument found"
+const myVar2 = Y= "no argument"
+if ( "argument is passed to script") {
+    console.log(X)
 } else {
-    const myVar = 'argument found'
-   console.log('myVar')
+   console.log(Y)
 }
 
 
