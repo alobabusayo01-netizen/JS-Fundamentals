@@ -1,3 +1,5 @@
 
-const 'myVar' = ['C' , 'cool' , 'amazing'];
-console.log( [myVar + "is fun"] , ["Phython is " + myVar] , ["javascript is " + myVar]);
+const myVar  = X = "C";
+const myVar = Y = "cool";
+const myVar = Z = "amazing";
+console.log( [X + "is fun"] , ["Phython is " + Y] , ["javascript is " + Z]);
