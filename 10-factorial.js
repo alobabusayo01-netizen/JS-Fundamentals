@@ -1,4 +1,9 @@
-The first argument is integer (argument can be cast as integer) used for computing the factorial
-Factorial of NaN is 1
-You must do it recursively
-You must use a function
+
+function factorial(n){
+  if(n === 0) return 1;
+  return n * factorial(n - 1);
+}
+console.log(factorial(1));
+console.log(factorial(3));
+console.log(factorial(89));
+console.log(factorial(333));
