@@ -1,6 +1,6 @@
 
-const myVar1 = X= " argument found"
-const myVar2 = Y= "no argument"
+let myVar1 = X= " argument found"
+let myVar2 = Y= "no argument"
 if ( X="script"?) {
     console.log(X)
 } else {
