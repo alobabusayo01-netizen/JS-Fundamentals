@@ -1,9 +1,10 @@
 
-const 'myVar' =[ 'no argument' , 'school']
-if ('no argument is passed to script') {
-    console.log('myVar')
+let myVar1 = X= " school"
+let myVar2 = Y= "no argument"
+if ( X="school"?) {
+    console.log(X)
 } else {
-   console.log('myVar')
+   console.log(Y)
 }
 
 
