@@ -4,6 +4,6 @@ function factorial(n){
   return n * factorial(n - 1);
 }
 console.log(factorial(1));
-console.log(factorial(3));
+console.log(factorial(4));
 console.log(factorial(89));
-console.log(factorial(333));
+console.log(factorial(1000));
